@@ -1,0 +1,6 @@
+{
+    "name": "33Kareng/hello-earth",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
